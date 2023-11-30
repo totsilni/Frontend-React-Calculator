@@ -1,4 +1,7 @@
 # Frontend-React-Calculator
+## Instruction 
+[How to send project to review RU](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/edit/main/README.md)
+
 Remember to git add && git commit && git push each exercise!
 
 We will execute your function with our test(s), please DO NOT PROVIDE ANY TEST(S) in your file

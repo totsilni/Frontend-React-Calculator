@@ -1,4 +1,4 @@
-# Instruction how to send project to review RU
+# Instruction how to send project to review
 - [Russian](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/edit/main/README.md)
 # Frontend-React-Calculator
 

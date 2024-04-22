@@ -7,7 +7,7 @@ This Calculator App is a simple yet powerful tool for performing basic arithmeti
 
 ## Installation
 
-To use My_Dropbox, follow these steps:
+To use My_Calculator, follow these steps:
 
 1. Clone the repository to your local machine using the following command:   `git clone https://github.com/totsilni/Frontend-React-Calculator.git`
 
